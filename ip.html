@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<script>
+	function submitForm(){
+		var result = true;
+		var loginName = document.getElementById("loginName");
+		var pwd = document.getElementById("pwd");
+		var checkCode = document.getElementById("checkCode");
+		var msg="";
+		if (loginName.value==""){
+			msg = "用户名不能为空";
+			result = false;
+		}
+		if (pwd.value==""){
+			msg = msg + "\n密码不能为空";
+			result = false;
+		}
+		if (checkCode && checkCode.value==""){
+			msg = msg + "\n验证码不能为空";
+			result = false;
+		}
+		if (result) {
+			if($('#cookieNameAndPwd').attr('checked')){
+				$.cookie('loginname', loginName.value, {expires:30});
+				$.cookie('password', pwd.value, {expires:30});
+			}else{
+				$.cookie('loginname', null);
+				$.cookie('password', null);
+			}
+		}
+		if (msg!=""){
+			alert(msg);
+		}
+		return result;
+	}
+	function checkUkey(){
+		var flag=submitForm();
+		if(flag){
+			document.loginForm.submit();
+		}else{ return false;}
+</script>
+<body>
+<form name="loginForm" action="login!userLogin.action" method="post">
+	<p class="title">LOGIN</p>
+	<div>用户名：</div>
+	<div>
+		<input type="text" class="w230" id="loginName" name="user.loginName" autocomplete="off" maxlength="20" placeholder="用户名"/>
+	</div>
+	<div>密码：</div>
+	<div>
+		<input type="password" class="w230" id="pwd" name="user.password" placeholder="密码">
+	</div>
+	<div>验证码：</div>
+	<div>
+		<input type="text" class="w160" id="checkCode" placeholder="请输入右侧验证码" name="user.checkCode" autocomplete="off" maxlength="4" value="请输入验证码"/>
+		<img src="<%=request.getContextPath()%>/authcode" id="authcode" width="47" height="20" class="v_m"/>
+	</div>
+	
+<button class="btn-primary" onclick="checkUkey();return false;">登录</button>
+ 
+</form>
+
+
+</body>
+
+
+</html>

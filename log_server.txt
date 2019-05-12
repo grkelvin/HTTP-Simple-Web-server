@@ -1,0 +1,1442 @@
+Tue Apr  9 10:58:15 2019
+The Service Started...
+Tue Apr  9 10:58:34 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Access file:indexVIP.html
+Tue Apr  9 10:58:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1116
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 10:58:42 2019
+Access file:test1.jpeg
+Tue Apr  9 10:58:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:19821
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 10:58:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Access file:test.pdf
+Tue Apr  9 10:58:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:177975
+Connection:close
+Content-Type:application/pdf
+
+
+Tue Apr  9 10:58:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Access file:test1.gif
+Tue Apr  9 10:58:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:357060
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 10:58:42 2019
+Access file:test2.gif
+Tue Apr  9 10:58:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:434775
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 10:58:42 2019
+Access file:test4.gif
+Tue Apr  9 10:58:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:343977
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 10:58:42 2019
+Access file:test3.gif
+Tue Apr  9 10:58:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:378005
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 10:58:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Access file:test5.gif
+Tue Apr  9 10:58:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:433066
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 10:58:42 2019
+Access file:test6.gif
+Tue Apr  9 10:58:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:400338
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 10:58:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 10:58:42 2019
+Access file:test.mp3
+Tue Apr  9 10:58:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4314782
+Connection:close
+Content-Type:audio/mp3
+
+
+Tue Apr  9 10:58:43 2019
+Access file:movie.mp4
+Tue Apr  9 10:58:43 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:18:26 2019
+The Service Started...
+Tue Apr  9 11:18:26 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:18:27 2019
+Access file:login.html
+Tue Apr  9 11:18:27 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1382
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 11:18:27 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:18:27 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:18:31 2019
+Access file:jpeg.jpeg
+Tue Apr  9 11:18:31 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:19821
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:18:32 2019
+Access file:favicon.ico
+Tue Apr  9 11:18:32 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:67646
+Connection:close
+Content-Type:application/x-ico
+
+
+Tue Apr  9 11:18:28 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:18:33 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:18:33 2019
+Access file:jpg.jpg
+Tue Apr  9 11:18:33 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:147865
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:18:33 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:25:18 2019
+The Service Started...
+Tue Apr  9 11:25:18 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:25:28 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:25:28 2019
+Access file:login.html
+Tue Apr  9 11:25:28 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1382
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 11:25:28 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:25:28 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:25:41 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:25:41 2019
+Access file:jpg.jpg
+Tue Apr  9 11:25:41 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:147865
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:25:41 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:25:47 2019
+Access file:png.png
+Tue Apr  9 11:25:47 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:406600
+Connection:close
+Content-Type:image/x-png
+
+
+Tue Apr  9 11:25:41 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:25:52 2019
+Access file:pdf.pdf
+Tue Apr  9 11:25:52 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:90135
+Connection:close
+Content-Type:application/pdf
+
+
+Tue Apr  9 11:25:49 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:25:53 2019
+Access file:pdf.pdf
+Tue Apr  9 11:25:53 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:90135
+Connection:close
+Content-Type:application/pdf
+
+
+Tue Apr  9 11:25:52 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:25:54 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:00 2019
+Access file:mp3.mp3
+Tue Apr  9 11:26:00 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4314782
+Connection:close
+Content-Type:audio/mp3
+
+
+Tue Apr  9 11:26:00 2019
+Access file:mp3.mp3
+Tue Apr  9 11:26:00 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4314782
+Connection:close
+Content-Type:audio/mp3
+
+
+Tue Apr  9 11:26:00 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:07 2019
+Access file:mp4.mp4
+Tue Apr  9 11:26:07 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:06 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:08 2019
+Access file:mp4.mp4
+Tue Apr  9 11:26:08 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:08 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:08 2019
+Access file:mp4.mp4
+Tue Apr  9 11:26:08 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:08 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:09 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:14 2019
+Access file:mp4.mp4
+Tue Apr  9 11:26:14 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:14 2019
+Access file:mp4.mp4
+Tue Apr  9 11:26:14 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:14 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:14 2019
+Access file:mp4.mp4
+Tue Apr  9 11:26:14 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:14 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:15 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:15 2019
+Access file:mp4.mp4
+Tue Apr  9 11:26:15 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:15 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:15 2019
+Access file:mp4.mp4
+Tue Apr  9 11:26:15 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:15 2019
+Access file:mp4.mp4
+Tue Apr  9 11:26:15 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:15 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:22 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:22 2019
+Access file:apple.jpg
+Tue Apr  9 11:26:22 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:21061
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:26:22 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:32 2019
+Access file:index.html
+Tue Apr  9 11:26:32 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1886
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 11:26:22 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:32 2019
+Access file:test1.jpeg
+Tue Apr  9 11:26:32 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:19821
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:26:32 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:32 2019
+Access file:test1.gif
+Tue Apr  9 11:26:32 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:357060
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:26:32 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:32 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:32 2019
+Access file:test.pdf
+Tue Apr  9 11:26:32 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:177975
+Connection:close
+Content-Type:application/pdf
+
+
+Tue Apr  9 11:26:32 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:32 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:32 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:32 2019
+Access file:test3.gif
+Tue Apr  9 11:26:32 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:378005
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:26:32 2019
+Access file:test2.gif
+Tue Apr  9 11:26:32 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:434775
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:26:33 2019
+Access file:test4.gif
+Tue Apr  9 11:26:33 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:343977
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:26:33 2019
+Access file:test5.gif
+Tue Apr  9 11:26:33 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:433066
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:26:33 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:33 2019
+Access file:test6.gif
+Tue Apr  9 11:26:33 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:400338
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:26:33 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:33 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:33 2019
+Access file:text4.png
+Tue Apr  9 11:26:33 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:406600
+Connection:close
+Content-Type:image/x-png
+
+
+Tue Apr  9 11:26:33 2019
+Access file:test.mp3
+Tue Apr  9 11:26:33 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4314782
+Connection:close
+Content-Type:audio/mp3
+
+
+Tue Apr  9 11:26:33 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:41 2019
+Access file:test.mp3
+Tue Apr  9 11:26:41 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4314782
+Connection:close
+Content-Type:audio/mp3
+
+
+Tue Apr  9 11:26:33 2019
+Access file:movie.mp4
+Tue Apr  9 11:26:33 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:41 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:52 2019
+Access file:movie.mp4
+Tue Apr  9 11:26:52 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:26:52 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:26:57 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:09 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:09 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:17 2019
+Access file:indexVIP.html
+Tue Apr  9 11:27:17 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1116
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 11:27:17 2019
+Access file:test1.jpeg
+Tue Apr  9 11:27:17 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:19821
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:27:10 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:17 2019
+Access file:test.pdf
+Tue Apr  9 11:27:17 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:177975
+Connection:close
+Content-Type:application/pdf
+
+
+Tue Apr  9 11:27:17 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:17 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:17 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:17 2019
+Access file:test1.gif
+Tue Apr  9 11:27:17 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:357060
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:17 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:17 2019
+Access file:test3.gif
+Tue Apr  9 11:27:17 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:378005
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:17 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:17 2019
+Access file:test4.gif
+Tue Apr  9 11:27:17 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:343977
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:17 2019
+Access file:test2.gif
+Tue Apr  9 11:27:17 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:434775
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:17 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:17 2019
+Access file:test5.gif
+Tue Apr  9 11:27:17 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:433066
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:18 2019
+Access file:test6.gif
+Tue Apr  9 11:27:18 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:400338
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:17 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:18 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:18 2019
+Access file:test.mp3
+Tue Apr  9 11:27:18 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4314782
+Connection:close
+Content-Type:audio/mp3
+
+
+Tue Apr  9 11:27:18 2019
+Access file:movie.mp4
+Tue Apr  9 11:27:18 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:27:18 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:42 2019
+Access file:login.html
+Tue Apr  9 11:27:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1382
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 11:27:41 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:42 2019
+Access file:apple.jpg
+Tue Apr  9 11:27:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:21061
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:27:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:42 2019
+Access file:favicon.ico
+Tue Apr  9 11:27:42 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:67646
+Connection:close
+Content-Type:application/x-ico
+
+
+Tue Apr  9 11:27:42 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:45 2019
+Access file:indexVIP.html
+Tue Apr  9 11:27:45 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1116
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 11:27:45 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:45 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:46 2019
+Client 127.0.0.1 access
+ue Apr  9 11:27:46 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:19821
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:27:46 2019
+Access file:test1.gif
+Tue Apr  9 11:27:46 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:357060
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:46 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:46 2019
+Access file:test2.gif
+Tue Apr  9 11:27:46 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:434775
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:46 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:46 2019
+Access file:test3.gif
+Tue Apr  9 11:27:46 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:378005
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:46 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:46 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:46 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:46 2019
+Access file:test.pdf
+Tue Apr  9 11:27:46 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:177975
+Connection:close
+Content-Type:application/pdf
+
+
+Tue Apr  9 11:27:46 2019
+Access file:test5.gif
+Tue Apr  9 11:27:46 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:433066
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:46 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:46 2019
+Access file:test6.gif
+Tue Apr  9 11:27:46 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:400338
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:27:46 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:27:46 2019
+Access file:test.mp3
+Tue Apr  9 11:27:46 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4314782
+Connection:close
+Content-Type:audio/mp3
+
+
+Tue Apr  9 11:27:46 2019
+Access file:movie.mp4
+Tue Apr  9 11:27:46 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:27:46 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:02 2019
+Access file:login.html
+Tue Apr  9 11:28:02 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1382
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 11:28:02 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:03 2019
+Access file:apple.jpg
+Tue Apr  9 11:28:03 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:21061
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:28:02 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Access file:index.html
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1886
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+e Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:378005
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Access file:test1.jpeg
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:19821
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Access file:test5.gif
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:433066
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Access file:test2.gif
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:434775
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:04 2019
+Access file:test4.gif
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:343977
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:04 2019
+Access file:text4.png
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:406600
+Connection:close
+Content-Type:image/x-png
+
+
+Tue Apr  9 11:28:04 2019
+Access file:test6.gif
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:400338
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:04 2019
+Access file:test1.gif
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:357060
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Access file:test.pdf
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:177975
+Connection:close
+Content-Type:application/pdf
+
+
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:04 2019
+Access file:test.mp3
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4314782
+Connection:close
+Content-Type:audio/mp3
+
+
+Tue Apr  9 11:28:04 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:05 2019
+Access file:test.pdf
+Tue Apr  9 11:28:05 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:177975
+Connection:close
+Content-Type:application/pdf
+
+
+Tue Apr  9 11:28:04 2019
+Access file:movie.mp4
+Tue Apr  9 11:28:04 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:28:05 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:06 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:06 2019
+Access file:movie.mp4
+Tue Apr  9 11:28:06 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:28:06 2019
+Access file:movie.mp4
+Tue Apr  9 11:28:06 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:28:06 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:12 2019
+Access file:movie.mp4
+Tue Apr  9 11:28:12 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:28:12 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:27 2019
+Access file:login.html
+Tue Apr  9 11:28:27 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1382
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 11:28:27 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:28 2019
+Access file:apple.jpg
+Tue Apr  9 11:28:28 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:21061
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:28:28 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:30 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:30 2019
+Access file:indexVIP.html
+Tue Apr  9 11:28:30 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:1116
+Connection:close
+Content-Type:text/html
+
+
+Tue Apr  9 11:28:30 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:30 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:30 2019
+Access file:test1.jpeg
+Tue Apr  9 11:28:30 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:19821
+Connection:close
+Content-Type:image/jpeg
+
+
+Tue Apr  9 11:28:30 2019
+Access file:test1.gif
+Tue Apr  9 11:28:30 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:357060
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:30 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:30 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:30 2019
+Access file:test3.gif
+Tue Apr  9 11:28:30 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:378005
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:31 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:31 2019
+Access file:test4.gif
+Tue Apr  9 11:28:31 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:343977
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:31 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:31 2019
+Access file:test6.gif
+Tue Apr  9 11:28:31 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:400338
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:31 2019
+Access file:test5.gif
+Tue Apr  9 11:28:31 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:433066
+Connection:close
+Content-Type:image/gif
+
+
+Tue Apr  9 11:28:31 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:31 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:31 2019
+Access file:test.pdf
+Tue Apr  9 11:28:31 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:177975
+Connection:close
+Content-Type:application/pdf
+
+
+Tue Apr  9 11:28:31 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:31 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:31 2019
+Access file:test.mp3
+Tue Apr  9 11:28:31 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4314782
+Connection:close
+Content-Type:audio/mp3
+
+
+Tue Apr  9 11:28:31 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:31 2019
+Access file:test.pdf
+Tue Apr  9 11:28:31 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:177975
+Connection:close
+Content-Type:application/pdf
+
+
+Tue Apr  9 11:28:31 2019
+Access file:test.mp3
+Tue Apr  9 11:28:31 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4314782
+Connection:close
+Content-Type:audio/mp3
+
+
+Tue Apr  9 11:28:31 2019
+Access file:movie.mp4
+Tue Apr  9 11:28:31 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:28:31 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:33 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:33 2019
+Access file:movie.mp4
+Tue Apr  9 11:28:33 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:28:36 2019
+Access file:movie.mp4
+Tue Apr  9 11:28:36 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:4880416
+Connection:close
+Content-Type:video/mp4
+
+
+Tue Apr  9 11:28:33 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:59 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:28:59 2019
+Access file:log_client.txt
+Tue Apr  9 11:28:59 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:46382
+Connection:close
+Content-Type:text/plain
+
+
+Tue Apr  9 11:28:59 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:29:08 2019
+Access file:log_server.txt
+Tue Apr  9 11:29:08 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:30088
+Connection:close
+Content-Type:text/plain
+
+
+Tue Apr  9 11:28:59 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:29:20 2019
+Access file:IP.txt
+Tue Apr  9 11:29:20 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:92
+Connection:close
+Content-Type:text/plain
+
+
+Tue Apr  9 11:29:20 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:29:20 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:29:35 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:29:50 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:29:50 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:29:50 2019
+Access file:favicon.ico
+Tue Apr  9 11:29:50 2019
+Server sent http file£º
+HTTP/1.1 200 OK
+Server:Kelvin & Harry <Version 1.0>
+Content-Length:67646
+Connection:close
+Content-Type:application/x-ico
+
+
+Tue Apr  9 11:29:50 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:31:11 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:31:11 2019
+Client 127.0.0.1 access
+Tue Apr  9 11:32:33 2019
+Client 127.0.0.1 access

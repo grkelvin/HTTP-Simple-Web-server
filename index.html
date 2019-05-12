@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<style type="text/css">
+	#video{
+		display: none;
+
+	}
+	#p1{
+		font-size: 35px;
+		font-weight: bold;
+		color: #4E11EF;
+	}
+	#picture{
+		display: none;
+	}
+	body{
+		text-align:center;
+	}
+</style>
+<head>
+	<title>World Wide Web Project</title>
+</head>
+<body>
+	<link rel="shortcut icon" href="/favicon.ico">
+<div>
+	<img width="400" height="150" src="test1.jpeg"/>
+	<h1>Hello LOSER(Non-VIP).</h1>
+</div>
+<div>
+	<img src="test1.gif" alt="" />
+	<img src="test2.gif" alt="" />
+	<img src="test3.gif" alt="" />
+	<img src="test4.gif" alt="" />
+	<img src="test5.gif" alt="" />
+	<img src="test6.gif" alt="" />
+</div>
+
+<div>
+<object height="100" width="100"></object>
+	<audio controls="controls">
+  <source src="test.mp3" type="audio/mp3" />
+</div>
+
+<!-- <a href="test.pdf">Link text</a> -->
+<!-- <a href="test.pdf" download="test">1111111</a> -->
+<p id="p1" onclick="startPicture()" onselectstart="return false;">Click here to watch the VIDEO</p>
+<div id="video">
+<video width="800" height="600" controls="controls">
+  	<source src="movie.mp4" type="video/mp4"></video>
+</div>
+<div id="picture">
+	<a href="http://apple.com" target="_blank"><img src="text4.png" width="60%" height="450px"/></a>
+</div>
+
+
+<embed width="800" height="600" src="test.pdf"> </embed>
+
+
+
+	<div style="text-align: center;">
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<address>
+	  	<a href="#">Copyright Kelvin, Harry</a>
+		</address>
+		<p>All rights reserved.</p>
+		<p>Best view in Chrome</p>
+		</div>
+</body>
+</html>
+<script type="text/javascript">
+	var p1 = document.getElementById('picture');
+	var v1 = document.getElementById('video');
+	var x = document.getElementById('p1');
+	function startPicture()
+	{
+		p1.style.display="block";
+		var time = setTimeout("showVideo()", 5000);
+	}
+	function showVideo()
+	{
+		v1.style.display="block";
+		p1.style.display="none";
+		x.style.display="none";
+	}
+</script>

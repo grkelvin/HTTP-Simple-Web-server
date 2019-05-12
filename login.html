@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html>
+<script>
+function btnck(){
+var a=document.getElementById("acc");
+var a=document.getElementById("pas");
+var c=document.getElementById("btn");
+if(a.value=="" || b.value==""){
+alert("Both ACCOUNT and PASSWORD cannot be empty");}
+else{
+alert("Successfully");}
+}
+
+function Func(){
+var a=document.getElementById("acc");
+var b=document.getElementById("pas");
+if(a.value=="" || b.value==""){
+return false;
+}else{
+return true;
+}
+}
+</script>
+<style media="screen">
+	body{
+		text-align:center;
+	}
+	p{
+		font-size: 1.3em;
+	}
+</style>
+<head>
+	<title>World Wide Web Project</title>
+</head>
+<body style="background-image:url(apple.jpg)">
+
+
+<form action="/indexVIP.html" method="post" onsubmit="return Func()">
+						<p class="astyle">Account</p>
+						<input id="acc" type="text"  name="account">
+						<p class="astyle">Password</p>
+						<input id = "pas" type="password"  name="password">
+					</br><input id="btn" type="submit" onclick="btnck();" style="margin-top:20px;" />
+				
+						</br>
+
+</form>
+</br></br></br></br></br>
+<!-- <div> -->
+<a href ="/index.html"> LOSER(Non-VIP) Click Here!!! </a>
+
+<!-- </div> -->
+
+
+
+	<div style="text-align: center; margin-top:80px;" >
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<address>
+	  	<a href="#">Copyright Kelvin, Harry</a>
+		</address>
+		<p>All rights reserved.</p>
+		<p>Best view in Chrome</p>
+	</div>
+</body>
+
+
+</html>

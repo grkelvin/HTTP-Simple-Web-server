@@ -1,0 +1,1475 @@
+Tue Apr  9 10:58:29 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 10:58:29 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 10:58:30 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 10:58:30 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 10:58:32 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 10:58:32 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 10:58:32 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 10:58:34 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 10:58:34 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 10:58:34 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 10:58:42 2019
+Browser sent£º
+POST /indexVIP.html HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Content-Length: 24
+Cache-Control: max-age=0
+Origin: http://localhost
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://localhost/login.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+account=123&password=123
+Tue Apr  9 10:58:42 2019
+Browser sent£º
+GET /test1.jpeg HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 10:58:42 2019
+Browser sent£º
+GET /test.pdf HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: */*
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 10:58:42 2019
+Browser sent£º
+GET /test1.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 10:58:42 2019
+Browser sent£º
+GET /test2.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 10:58:42 2019
+Browser sent£º
+GET /test3.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 10:58:42 2019
+Browser sent£º
+GET /test4.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 10:58:42 2019
+Browser sent£º
+GET /test5.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 10:58:42 2019
+Browser sent£º
+GET /test6.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 10:58:42 2019
+Browser sent£º
+GET /test.mp3 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 10:58:43 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 11:18:27 2019
+Browser sent£º
+GET /login.html HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Purpose: prefetch
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:18:31 2019
+Browser sent£º
+GET /jpeg.jpeg HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Purpose: prefetch
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:18:32 2019
+Browser sent£º
+GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Purpose: prefetch
+Referer: http://localhost/jpeg.jpeg
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:18:33 2019
+Browser sent£º
+GET /jpg.jpg HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:25:28 2019
+Browser sent£º
+GET /login.html HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Purpose: prefetch
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:25:41 2019
+Browser sent£º
+GET /jpg.jpg HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:25:47 2019
+Browser sent£º
+GET /png.png HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Purpose: prefetch
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:25:52 2019
+Browser sent£º
+GET /pdf.pdf HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Purpose: prefetch
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:25:53 2019
+Browser sent£º
+GET /pdf.pdf HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:00 2019
+Browser sent£º
+GET /mp3.mp3 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Purpose: prefetch
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:00 2019
+Browser sent£º
+GET /mp3.mp3 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/mp3.mp3
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 11:26:06 2019
+Browser sent£º
+GET /mp4.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Purpose: prefetch
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:08 2019
+Browser sent£º
+GET /mp4.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:08 2019
+Browser sent£º
+GET /mp4.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/mp4.mp4
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 11:26:14 2019
+Browser sent£º
+GET /mp4.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:14 2019
+Browser sent£º
+GET /mp4.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/mp4.mp4
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 11:26:14 2019
+Browser sent£º
+GET /mp4.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:15 2019
+Browser sent£º
+GET /mp4.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/mp4.mp4
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 11:26:15 2019
+Browser sent£º
+GET /mp4.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:15 2019
+Browser sent£º
+GET /mp4.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/mp4.mp4
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 11:26:22 2019
+Browser sent£º
+GET /apple.jpg HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/login.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:32 2019
+Browser sent£º
+GET /index.html HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://localhost/login.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:32 2019
+Browser sent£º
+GET /test1.jpeg HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:32 2019
+Browser sent£º
+GET /test1.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:32 2019
+Browser sent£º
+GET /test.pdf HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: */*
+Referer: http://localhost/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:32 2019
+Browser sent£º
+GET /test2.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:32 2019
+Browser sent£º
+GET /test3.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:32 2019
+Browser sent£º
+GET /test4.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:33 2019
+Browser sent£º
+GET /test5.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:33 2019
+Browser sent£º
+GET /test6.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:33 2019
+Browser sent£º
+GET /text4.png HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:26:33 2019
+Browser sent£º
+GET /test.mp3 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/index.html
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 11:26:33 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/index.html
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 11:26:41 2019
+Browser sent£º
+GET /test.mp3 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: */*
+Referer: http://localhost/index.html
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=65536-
+
+
+Tue Apr  9 11:26:52 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: */*
+Referer: http://localhost/index.html
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=1048576-
+
+
+Tue Apr  9 11:27:09 2019
+Browser sent£º
+POST /indexVIP.html HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Content-Length: 24
+Cache-Control: max-age=0
+Origin: http://localhost
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://localhost/login.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+account=123&password=111
+Tue Apr  9 11:27:09 2019
+403 Forbidden access
+========================================================================
+Wrong Account!
+============================================================
+Tue Apr  9 11:27:17 2019
+Browser sent£º
+POST /indexVIP.html HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Content-Length: 24
+Cache-Control: max-age=0
+Origin: http://localhost
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://localhost/login.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+account=123&password=123
+Tue Apr  9 11:27:17 2019
+Browser sent£º
+GET /test1.jpeg HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:27:17 2019
+Browser sent£º
+GET /test.pdf HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: */*
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:27:17 2019
+Browser sent£º
+GET /test1.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:27:17 2019
+Browser sent£º
+GET /test3.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:27:17 2019
+Browser sent£º
+GET /test2.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:27:17 2019
+Browser sent£º
+GET /test4.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:27:17 2019
+Browser sent£º
+GET /test5.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:27:17 2019
+Browser sent£º
+GET /test6.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/indexVIP.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:27:18 2019
+Browser sent£º
+GET /test.mp3 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 11:27:18 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+chrome-proxy: frfr
+Accept: */*
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=0-
+
+
+Tue Apr  9 11:27:42 2019
+Browser sent£º
+GET /login.html HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+Tue Apr  9 11:27:42 2019
+Browser sent£º
+GET /apple.jpg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/login.html
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:42 2019
+Browser sent£º
+GET /favicon.ico HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:45 2019
+Browser sent£º
+POST /indexVIP.html HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/login.html
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 24
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+account=123&password=123
+Tue Apr  9 11:27:45 2019
+Browser sent£º
+GET /test1.jpeg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/indexVIP.html
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:45 2019
+Browser sent£º
+GET /test1.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/indexVIP.html
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:46 2019
+Browser sent£º
+GET /test2.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/indexVIP.html
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:46 2019
+Browser sent£º
+GET /test3.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/indexVIP.html
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:46 2019
+Browser sent£º
+GET /test4.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/indexVIP.html
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:46 2019
+Browser sent£º
+GET /test5.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/indexVIP.html
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:46 2019
+Browser sent£º
+GET /test.pdf HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/indexVIP.html
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:46 2019
+Browser sent£º
+GET /test6.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/indexVIP.html
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:46 2019
+Browser sent£º
+GET /test.mp3 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: audio/webm,audio/ogg,audio/wav,audio/*;q=0.9,application/ogg;q=0.7,video/*;q=0.6,*/*;q=0.5
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Referer: http://localhost/indexVIP.html
+Range: bytes=0-
+Connection: keep-alive
+
+
+Tue Apr  9 11:27:46 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Referer: http://localhost/indexVIP.html
+Range: bytes=0-
+Connection: keep-alive
+
+
+Tue Apr  9 11:28:02 2019
+Browser sent£º
+GET /login.html HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Accept-Language: zh-CN
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:03 2019
+Browser sent£º
+GET /apple.jpg HTTP/1.1
+Referer: http://localhost/login.html
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /index.html HTTP/1.1
+Referer: http://localhost/login.html
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Accept-Language: zh-CN
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /test3.gif HTTP/1.1
+Referer: http://localhost/index.html
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /test2.gif HTTP/1.1
+Referer: http://localhost/index.html
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /test1.jpeg HTTP/1.1
+Referer: http://localhost/index.html
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /test5.gif HTTP/1.1
+Referer: http://localhost/index.html
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /test4.gif HTTP/1.1
+Referer: http://localhost/index.html
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /text4.png HTTP/1.1
+Referer: http://localhost/index.html
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /test1.gif HTTP/1.1
+Referer: http://localhost/index.html
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /test6.gif HTTP/1.1
+Referer: http://localhost/index.html
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+HEAD /test.pdf HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: localhost
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Referer: http://localhost/index.html
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Range: bytes=0-
+Accept: */*
+GetContentFeatures.DLNA.ORG: 1
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+
+Tue Apr  9 11:28:04 2019
+Browser sent£º
+GET /test.mp3 HTTP/1.1
+Referer: http://localhost/index.html
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Range: bytes=0-
+Accept: */*
+GetContentFeatures.DLNA.ORG: 1
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+
+Tue Apr  9 11:28:05 2019
+Browser sent£º
+GET /test.pdf HTTP/1.1
+Range: bytes=0-
+Accept: */*
+Referer: http://localhost/index.html
+GetContentFeatures.DLNA.ORG: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:06 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Referer: http://localhost/index.html
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Range: bytes=4136960-4880415
+Accept: */*
+GetContentFeatures.DLNA.ORG: 1
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+
+Tue Apr  9 11:28:06 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Referer: http://localhost/index.html
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Range: bytes=4136960-4880415
+Accept: */*
+GetContentFeatures.DLNA.ORG: 1
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+
+Tue Apr  9 11:28:12 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Referer: http://localhost/index.html
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Range: bytes=4136960-4880415
+Accept: */*
+GetContentFeatures.DLNA.ORG: 1
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+
+Tue Apr  9 11:28:27 2019
+Browser sent£º
+GET /login.html HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:28 2019
+Browser sent£º
+GET /apple.jpg HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://localhost/login.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:30 2019
+Browser sent£º
+POST /indexVIP.html HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://localhost/login.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: localhost
+Content-Length: 24
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+account=123&password=123
+Tue Apr  9 11:28:30 2019
+Browser sent£º
+GET /test1.jpeg HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:30 2019
+Browser sent£º
+GET /test1.gif HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:30 2019
+Browser sent£º
+GET /test2.gif HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:30 2019
+Browser sent£º
+GET /test3.gif HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:30 2019
+Browser sent£º
+GET /test4.gif HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:31 2019
+Browser sent£º
+GET /test5.gif HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:31 2019
+Browser sent£º
+GET /test6.gif HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://localhost/indexVIP.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:31 2019
+Browser sent£º
+HEAD /test.pdf HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: localhost
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+
+Tue Apr  9 11:28:31 2019
+Browser sent£º
+GET /test.mp3 HTTP/1.1
+If-Modified-Since: Tue, 09 Apr 2019 02:55:46 GMT
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Referer: http://localhost/indexVIP.html
+GetContentFeatures.DLNA.ORG: 1
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:31 2019
+Browser sent£º
+GET /test.mp3 HTTP/1.1
+Range: bytes=0-
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Referer: http://localhost/indexVIP.html
+GetContentFeatures.DLNA.ORG: 1
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:31 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+If-Modified-Since: Tue, 09 Apr 2019 02:55:59 GMT
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Referer: http://localhost/indexVIP.html
+GetContentFeatures.DLNA.ORG: 1
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:31 2019
+Browser sent£º
+GET /test.pdf HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:33 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Range: bytes=4341760-4880415
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Referer: http://localhost/indexVIP.html
+GetContentFeatures.DLNA.ORG: 1
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:36 2019
+Browser sent£º
+GET /movie.mp4 HTTP/1.1
+Range: bytes=4341760-4880415
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Referer: http://localhost/indexVIP.html
+GetContentFeatures.DLNA.ORG: 1
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+
+
+Tue Apr  9 11:28:59 2019
+Browser sent£º
+GET /log_client.txt HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:29:08 2019
+Browser sent£º
+GET /log_server.txt HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:29:20 2019
+Browser sent£º
+GET /IP.txt HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:29:34 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 11:29:34 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 11:29:34 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 11:29:35 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 11:29:35 2019
+403 Forbidden access
+========================================================================
+Tue Apr  9 11:29:50 2019
+Browser sent£º
+GET /123124142.txt HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
+Tue Apr  9 11:29:50 2019
+404 Not Found
+========================================================================
+Tue Apr  9 11:29:50 2019
+Browser sent£º
+GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost/123124142.txt
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+
